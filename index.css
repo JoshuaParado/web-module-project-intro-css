@@ -1,0 +1,190 @@
+nav {
+    
+    top:0;
+    left:0;
+    width: 100%;
+    height: 58px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+
+    
+
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 200px;
+   
+    
+    
+  }
+
+  li {
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  margin-top:20px;
+    
+  }
+
+  .imgheader {
+      border-radius: 50%;
+      width:15em; 
+      height:15em;
+      margin-left: 300px;
+      vertical-align: middle;
+  }
+
+  .img2 {
+    width:7em; 
+    height:7em;
+
+  }
+.img3 {
+    width:7em; 
+    height:7em;
+}
+.list1 {
+
+
+  background: #FF764E;
+  padding: 20px;
+  border: 2px solid #FF764E;
+  border-radius: 25px;
+  color:white;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+
+}
+
+.list2 {
+    background: #5ED3EB;
+  padding: 20px;
+  border: 2px solid #5ED3EB;
+  border-radius: 25px;
+  color:white;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  
+}
+
+.list3 {
+    background: #FFCD69;
+    padding: 20px;
+    border: 2px solid #FFCD69;
+    border-radius: 25px;
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 150px;
+    font-size: 60px;
+}
+
+body {
+   font-family: 'Roboto Mono', monospace;
+   
+}
+
+.body2 {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    margin-left: 500px;
+    width: 80em;
+   
+    
+    
+}
+td.body2 {
+
+}
+
+.body2p {
+  
+   
+   
+}
+
+
+.footer1 {
+    background: #FF764E;
+  padding: 20px;
+  border: 2px solid #FF764E;
+  border-radius: 25px;
+  color:white;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+
+.footer2 {
+    background: #5ED3EB;
+    padding: 20px;
+    border: 2px solid #5ED3EB;
+    border-radius: 25px;
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+.footer3 {
+    background: #FFCD69;
+    padding: 20px;
+    border: 2px solid #FFCD69;
+    border-radius: 25px;
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+footer {
+    background-color: #F9E7DC;
+    color:white;
+  
+    
+
+    
+}
+
+
+
+.fireimg {
+    
+    text-align: center;
+    width: 200px;
+    word-wrap: break-all;
+    
+
+}
+
+.footerimg {
+    
+    height:40vh;
+    width:100%;
+    object-fit: cover;
+    object-position:100% 20%;
+    
+
+}
+
+.come {
+
+    text-align: center;
+    margin-left: 150px;
+}
+
+.always {
+    text-align: center;
+    margin-left: 150px;
+}
+
+footer ul li {
+    margin-left: 100px;
+}
